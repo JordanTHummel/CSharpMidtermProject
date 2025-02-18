@@ -1,6 +1,8 @@
 # CSharpMidtermProject
 Midterm Project for CompSci 221 (Intermediate Programming in C#)
 
-Minumum Viable Product:
+Midterm Project Description:
+
+Minimum Viable Product:
 
 Stretch Goals:
